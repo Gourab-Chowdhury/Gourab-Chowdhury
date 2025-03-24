@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gourab Chowdhury - Portfolio</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <button id="showSidebarBtn" class="show-sidebar-btn">&equiv;</button>
+    <div class="sidebar">
+      <!-- <button id="closeSidebarBtn" class="close-sidebar-btn">&times;</button> -->
+      <h2>Gourab Chowdhury</h2>
+      <ul>
+        <li><a href="#about" class="active">About Me</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="main-content">
+      <section id="about">
+        <img src="assets/profile.JPG" alt="Gourab Chowdhury" />
+        <div class="about-content">
+          <h1>Gourab Chowdhury</h1>
+          <p>
+            Final-year B.Tech student at NIT Rourkela, specializing in MERN stack, Python, and Deep Learning. Passionate about building scalable applications and AI-driven solutions that bridge hardware and software technologies.
+          </p>
+          <a
+            href="assets/Gourab - Portfolio.pdf"
+            class="resume-link"
+            target="_blank"
+            >Download Resume</a
+          >
+        </div>
+      </section>
+
+      <section id="experience">
+        <h2>Experience</h2>
+        <div class="project-card">
+          <h3>Indian Institute of Technology, Mandi</h3>
+          <p>Research Intern (21<sup>st</sup> May 2023 - 20<sup>st</sup>July 2023)</p>
+          <a class="certificate" href="assets/Gourab-Chowdhury-IIT-Mandi.pdf" target="_blank">Certificate</a>
+        </div>
+
+        <div class="project-card">
+          <h3>Technocolab software private limited</h3>
+          <p>Frontend Developer Intern (March 2023 - April 2023)</p>
+          <a class="certificate" href="assets/Web Developer Internship Completion Certificate Gourab Chowdhury.pdf" target="_blank">Certificate</a>
+        </div>
+      </section>
+
+      <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+          <h3>IoT based smart Entrance system: Facial Recognition and Number Plate Detection</h3>
+          <p>
+            Developing a real-time system for Human face detection via CCTV feeds using one shot learning techniques and number plate detection using PaddleOCR Technology. Use SQlite3 and MongoDB for database management and Flask for backend development.
+          </p>
+          <a class="github-link" href="https://github.com/Gourab-Chowdhury/IoT-based-smart-entrance-system" target="_blank">Github</a>          
+        </div>
+
+        <div class="project-card">
+          <h3>DAILY DIGEST: Your personalized Blogging Platform</h3>
+          <p>
+            A blogging website where users discover, create, and share your thoughts with the world. The website built using HTML5, CSS3, JavaScript, Flask and SQalchemy. 
+          </p>
+          <a class="github-link" href="https://github.com/Gourab-Chowdhury/Daily-Digest" target="_blank">Github</a>
+        </div>
+      </section>
+
+      <section id="skills">
+        <h2>Skills</h2>
+        <div class="skills-list">
+          <div class="skill-item">Python</div>
+          <div class="skill-item">C++</div>
+          <div class="skill-item">HTML5</div>
+          <div class="skill-item">CSS3</div>
+          <div class="skill-item">JavaScript</div>
+          <div class="skill-item">ReactJS</div>
+          <div class="skill-item">NodeJS</div>
+          <div class="skill-item">ExpressJS</div>
+          <div class="skill-item">Flask</div>
+          <div class="skill-item">MySQL</div>
+          <div class="skill-item">MongoDB</div>
+          <div class="skill-item">Power BI</div>
+          <div class="skill-item">Linux</div>
+        </div>
+      </section>
+
+      <section id="contact">
+        <h2>Contact Me</h2>
+        <div class="contact-links">
+          <a href="mailto:gourabchowdhury16@gmail.com" target="_blank">
+            <i class="fas fa-envelope"></i>
+          </a>
+          <a href="https://github.com/Gourab-Chowdhury" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/gourab-chowdhury-a64806246/"
+            target="_blank"
+          >
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </div>
+      </section>
+    </div>
+
+
+    <div class="message-me">
+      <button id="messageMeBtn">Message Me</button>
+    </div>
+    <div class="message-form-container" id="messageFormContainer">
+      <form id="messageForm">
+        <h2>Send a Message</h2>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Your Message</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <button type="submit">Send</button>
+        <button type="button" id="closeFormBtn">Close</button>
+      </form>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
