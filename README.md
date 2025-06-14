@@ -12,9 +12,9 @@ Currently exploring AI applications and scalable system design.
 
 | Category        | Technologies                                                                 |
 |-----------------|------------------------------------------------------------------------------|
-| **Languages**   | Python, C++, JavaScript, HTML/CSS                                           |
-| **ML/DL**       | scikit-learn, pandas, NumPy, Matplotlib                                     |
-| **Web Dev**     | Flask, Bootstrap                                                            |
+| **Languages**   | Python, C++, JavaScript, HTML/CSS                                            |
+| **ML/DL**       | scikit-learn, pandas, NumPy, Matplotlib, Pytorch, YOLO                       |
+| **Web Dev**     | Flask, NodeJS, ExpressJS                                                     |
 | **Tools**       | Git, Jupyter Notebook, VS Code                                              |
 
 ## 🚀 Featured Projects
@@ -45,11 +45,3 @@ _Responsive web development showcase_
 ![Language Distribution](https://img.shields.io/badge/Python-65%25-blueviolet) 
 ![C++-25%25-yellow](https://img.shields.io/badge/C%2B%2B-25%25-yellow) 
 ![Web-10%25-green](https://img.shields.io/badge/Web-10%25-green)
-
-```mermaid
-graph LR
-    A[New Projects] --> B{Machine Learning};
-    A --> C{Software Development};
-    B --> D[Predictive Modeling];
-    C --> E[Algorithm Optimization];
-    C --> F[Web Applications];
