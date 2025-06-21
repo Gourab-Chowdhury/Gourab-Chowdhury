@@ -17,8 +17,8 @@
 ## 🚀 Featured Projects
 
 ### 🔬 Advance Data Analysis Tool
-_Analysing Data using _  
-[![Code](https://img.shields.io/badge/Advance_Data-Analysis_Tool)](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI)  
+_Analysing Data using Python with graphical interface_  
+[![Code](https://img.shields.io/badge/Data_Analysis-Tool)](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI)  
 - Take csv, json and preprocesse data as well ploting Histogram, Box Plot, Scatter Plot, Line Chart, Bar Chart, Heatmap, Pair Plot, Regression Plot, Time Series Decomposition
 - Analysis Descriptive Statistics, Correlation Matrix, Regression Analysis
 - Tools: Python, Tkinter, numpy, scikit-learn, pandas, Matplotlib, statsmodels
