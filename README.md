@@ -16,12 +16,12 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 Breast Cancer Prediction
-_Predicting malignancy using machine learning classifiers_  
-[![Code](https://img.shields.io/badge/Repo-Breast_Cancer_Prediction-green?logo=github)](https://github.com/Gourab-Chowdhury/Breast-Cancer-Prediction)  
-- Implemented SVM, KNN, and Random Forest classifiers
-- Achieved 97%+ accuracy through feature optimization
-- Tools: Python, scikit-learn, pandas, Matplotlib
+### 🔬 Advance Data Analysis Tool
+_Analysing Data using _  
+[![Code](https://img.shields.io/badge/Repo-Advance-Data-Analysis-Tool-using-Python-and-GUI?logo=github)](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI)  
+- Take csv, json and preprocesse data as well ploting Histogram, Box Plot, Scatter Plot, Line Chart, Bar Chart, Heatmap, Pair Plot, Regression Plot, Time Series Decomposition
+- Analysis Descriptive Statistics, Correlation Matrix, Regression Analysis
+- Tools: Python, Tkinter, numpy, scikit-learn, pandas, Matplotlib, statsmodels
 
 ### 🎮 Classic Snake Game
 _C++ implementation with graphical interface_  
