@@ -23,24 +23,17 @@ _Analysing Data using Python with graphical interface_
 - Analysis Descriptive Statistics, Correlation Matrix, Regression Analysis
 - Tools: Python, Tkinter, numpy, scikit-learn, pandas, Matplotlib, statsmodels
 
-### 🎮 Classic Snake Game
-_C++ implementation with graphical interface_  
-[![Code](https://img.shields.io/badge/Repo-Snake_Game-blue?logo=github)](https://github.com/Gourab-Chowdhury/Snake-Game)  
-- Object-oriented design with collision detection
-- Interactive score tracking system
-- Built with: C++, Graphics Library
 
 ### 🌐 Personal Portfolio Website
 _Responsive web development showcase_  
-[![Live Demo](https://img.shields.io/badge/Live-Portfolio_Website-9cf?logo=vercel)](https://gourab-chowdhury.github.io/Portfolio-Website/)  
+[![Live Demo](https://img.shields.io/badge/Live-Portfolio_Website-9cf?logo=vercel)](https://gourab-chowdhury.github.io/Gourab-Chowdhury/)  
 - Mobile-first design with CSS animations
 - Project showcase section with filtering
-- Tech: HTML5, CSS3, JavaScript, Bootstrap
+- Tech: HTML5, CSS3, JavaScript
 
 ## 📊 GitHub Activity
 
 ![Language Distribution](https://img.shields.io/badge/Python-65%25-blueviolet) 
-![C++-25%25-yellow](https://img.shields.io/badge/C%2B%2B-25%25-yellow) 
 ![Web-10%25-green](https://img.shields.io/badge/Web-10%25-green)
 
 
