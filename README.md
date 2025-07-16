@@ -12,6 +12,7 @@
 | **Languages**   | Python, C++, JavaScript, HTML/CSS                                            |
 | **ML/DL**       | scikit-learn, pandas, NumPy, Matplotlib, Pytorch, YOLO                       |
 | **Web Dev**     | Flask, NodeJS, ExpressJS                                                     |
+| **Databases**   | MySQL, MongoDB, SQLite                                                       |
 | **Tools**       | Git, Jupyter Notebook, VS Code                                               |
 
 ## 🚀 Featured Projects
