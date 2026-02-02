@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourab Chowdhury</h1>
-<h3 align="center">MTech Freasher at Indian Institute of Information Technology Guwahati, specializing in MERN stack, Python, Computer Vision and Deep Learning. Passionate about building scalable applications and AI-driven solutions that bridge hardware and software technologies.</h3>
+<h3 align="center">MTech Freasher at Indian Institute of Information Technology Guwahati, intarested Python, Computer Vision and Deep Learning. Passionate about building scalable applications and AI-driven solutions that bridge hardware and software technologies.</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Project-ff69b4?style=flat)]([https://gourab-chowdhury.github.io/Portfolio-Website/](https://gourab-chowdhury.github.io/Gourab-Chowdhury/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/gourab-chowdhury-a64806246/])
@@ -11,7 +11,7 @@
 |-----------------|------------------------------------------------------------------------------|
 | **Languages**   | Python, C++, JavaScript, HTML/CSS                                            |
 | **ML/DL**       | scikit-learn, pandas, NumPy, Matplotlib, Pytorch, YOLO                       |
-| **Web Dev**     | Flask, NodeJS, ExpressJS                                                     |
+| **Web Dev**     | Flask                                                                        |
 | **Databases**   | MySQL, MongoDB, SQLite3                                                      |
 | **Tools**       | Git, Jupyter Notebook, VS Code                                               |
 
