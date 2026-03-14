@@ -17,12 +17,12 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 Advance Data Analysis Tool
-_Analysing Data using Python with graphical interface_  
+### 🔬 [Sereni AI: Agentic Mental Health Assistant](https://github.com/Gourab-Chowdhury/Sereni-AI-Agentic-Mental-Health-Assistant)
+_Your personal and trusted AI_  
 [![Code](https://img.shields.io/badge/Repo-Data_Analysis-green?logo=github)](https://github.com/Gourab-Chowdhury/Advance-Data-Analysis-Tool-using-Python-and-GUI)  
-- Take csv, json and preprocesse data as well ploting Histogram, Box Plot, Scatter Plot, Line Chart, Bar Chart, Heatmap, Pair Plot, Regression Plot, Time Series Decomposition
-- Analysis Descriptive Statistics, Correlation Matrix, Regression Analysis
-- Tools: Python, Tkinter, numpy, scikit-learn, pandas, Matplotlib, statsmodels
+ - Built a multi-agent conversational system using LangChain and LangGraph and GPT-OSS-20b for intelligent dialogue workflows.
+ - Implemented RAG using ChromaDB with cross-encoder reranking to improve response accuracy.
+ - Deployed an interactive Streamlit application with DistilRoBERTa- based safety guardrails for crisis detection.
 
 
 ### 🌐 Personal Portfolio Website
