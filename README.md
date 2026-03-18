@@ -18,9 +18,8 @@
 ## 🚀 Featured Projects
 
 ### 🔬 [Sereni AI: Agentic Mental Health Assistant](https://github.com/Gourab-Chowdhury/Sereni-AI-Agentic-Mental-Health-Assistant)
-_Your personal and trusted AI_  
-[![Code](https://github.com/Gourab-Chowdhury/Sereni-AI-Agentic-Mental-Health-Assistant-green?logo=github)](https://github.com/Gourab-Chowdhury/Sereni-AI-Agentic-Mental-Health-Assistant)  
- - Built a multi-agent conversational system using LangChain and LangGraph and GPT-OSS-20b for intelligent dialogue workflows.
+_Your personal and trusted AI_   
+ - Built a multi-agent conversational system using LangChain, LangGraph, and GPT-OSS-20b for intelligent dialogue workflows.
  - Implemented RAG using ChromaDB with cross-encoder reranking to improve response accuracy.
  - Deployed an interactive Streamlit application with DistilRoBERTa- based safety guardrails for crisis detection.
 
